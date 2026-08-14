@@ -1,0 +1,12 @@
+# Secrets
+.env
+*.session
+*.session-journal
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Downloads/Temp
+downloads/
+temp/
